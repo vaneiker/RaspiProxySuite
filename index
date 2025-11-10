@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página en Raspberry Pi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+            padding-top: 50px;
+        }
+        h1 {
+            color: #0077cc;
+        }
+        p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hola desde mi Raspberry Pi 🚀</h1>
+    <p>Esta es una página HTML básica para probar tu servidor Nginx.</p>
+</body>
+</html>
